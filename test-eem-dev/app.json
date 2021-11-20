@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "test-eem-dev",
+    "slug": "test-eem-dev",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "test-eem-dev"
+}
